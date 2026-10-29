@@ -49,7 +49,7 @@ namespace empresaCode.Repositories
                 throw new Exception($"Erro detalhado no MySQL: {ex.Message}");
             }
         }
-        
+
         public async Task<UsuarioModel?> BuscarEmail(string email)
         {
             

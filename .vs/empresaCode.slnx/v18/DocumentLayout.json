@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\2amod\\Desktop\\empresaCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\repositories\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\repositories\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -19,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,24 +47,8 @@
       "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\repositories\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\repositories\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\views\\conta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\views\\conta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|solutionrelative:empresacode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE393889-ED27-2CF1-37F1-845793AE1B23}|empresaCode\\empresaCode.csproj|c:\\users\\2amod\\desktop\\empresacode\\empresacode\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,23 +66,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "empresaCode\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Controllers\\ContaController.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "empresaCode\\Controllers\\ContaController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:35:33.911Z"
+              "WhenOpened": "2026-10-29T17:31:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\appsettings.json",
+              "RelativeDocumentMoniker": "empresaCode\\appsettings.json",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\appsettings.json",
+              "RelativeToolTip": "empresaCode\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-29T18:01:24.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Program.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Program.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Program.cs",
+              "RelativeToolTip": "empresaCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T18:00:36.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Repositories\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "empresaCode\\Repositories\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:48:13.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "empresaCode\\Properties\\launchSettings.json",
@@ -90,12 +128,47 @@
               "RelativeToolTip": "empresaCode\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-29T17:40:16.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T17:40:16.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "empresaCode\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:35:18.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "empresaCode\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:34:35.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "empresaCode\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:35:32.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "empresaCode.csproj",
               "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\empresaCode.csproj",
               "RelativeDocumentMoniker": "empresaCode\\empresaCode.csproj",
@@ -108,90 +181,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Models\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\UsuarioModel.cs",
-              "RelativeToolTip": "empresaCode\\Models\\UsuarioModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:35:32.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContaController.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\ContaController.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Controllers\\ContaController.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\ContaController.cs",
-              "RelativeToolTip": "empresaCode\\Controllers\\ContaController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAcwHwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:31:36.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "empresaCode\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:34:35.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "empresaCode\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:35:18.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Repositories\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Repositories\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Repositories\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "empresaCode\\Repositories\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:48:13.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IUsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Repositories\\IUsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "empresaCode\\Repositories\\IUsuarioRepositorio.cs",
               "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Repositories\\IUsuarioRepositorio.cs",
               "RelativeToolTip": "empresaCode\\Repositories\\IUsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T17:50:13.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Program.cs",
-              "RelativeDocumentMoniker": "empresaCode\\Program.cs",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Program.cs",
-              "RelativeToolTip": "empresaCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "empresaCode\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "empresaCode\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T18:00:36.811Z"
+              "WhenOpened": "2026-10-29T17:35:33.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\Views\\Conta\\Index.cshtml",
               "RelativeDocumentMoniker": "empresaCode\\Views\\Conta\\Index.cshtml",
@@ -200,18 +213,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-29T17:59:17.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\appsettings.json",
-              "RelativeDocumentMoniker": "empresaCode\\appsettings.json",
-              "ToolTip": "C:\\Users\\2amod\\Desktop\\empresaCode\\empresaCode\\appsettings.json",
-              "RelativeToolTip": "empresaCode\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-29T18:01:24.6Z"
             },
             {
               "$type": "Document",
